@@ -1,5 +1,8 @@
 # dhcpcd
 
+Ignore this fork of the dhcpcd project. 
+I am playing around with a few things - and won't garantee that anything works at all :-) 
+
 dhcpcd is a
 [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) and a
 [DHCPv6](https://en.wikipedia.org/wiki/DHCPv6) client.
