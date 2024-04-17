@@ -51,7 +51,6 @@ static struct dev_dhcpcd dhcpcd;
 static int
 udev_listening(void)
 {
-
 	return monitor ? 1 : 0;
 }
 
